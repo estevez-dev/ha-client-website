@@ -1,3 +1,3 @@
 ## This website was moved to:
 
-# [ha-client.estevez.dev](http://ha-client.estevez.dev)
+# [ha-client.app](http://ha-client.app)
